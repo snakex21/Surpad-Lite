@@ -1,0 +1,10 @@
+w skali logarytmicznej chce coś jak na zdjęciu
+
+po lewo na wykresie było by BER a po prawo EB/N0
+
+co to jest kodowanie
+3.2 w niektórych
+jak są wzory daj odnośnik z kąd są wzięte odnośnik
+i pokazać potem wyniki i porównać i jakie np. eb n0 aby to osiągnąć
+i w miejscach gdzie ma napisanych wzorach dać je
+dodać rysunki
