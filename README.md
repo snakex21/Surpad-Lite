@@ -1,4 +1,4 @@
-# Surpad Lite
+![image](https://github.com/user-attachments/assets/cfe02f0e-7abe-413b-af51-74d25a87abab)# Surpad Lite
 
 A Flutter application designed as a 'lite' version inspired by surveying tools, focusing on displaying detailed GPS/GNSS information, mapping, track recording, and data visualization. Developed as a project for a Location Systems course.
 
@@ -6,14 +6,17 @@ The goal was to create a feature-rich app demonstrating various aspects of locat
 
 ## Screenshots
 
-(Tutaj **koniecznie** wstaw kilka zrzutów ekranu pokazujących główne funkcje: mapę ze znacznikiem i śladem, Sky Plot, wykresy SNR i elewacji, kartę danych lokalizacyjnych, duży kompas. To BARDZO poprawia odbiór projektu!)
-
 *   *Ekran główny z mapą*
 *   *Widok Sky Plot z filtrami*
+![image](https://github.com/user-attachments/assets/7a052be1-1bd9-4764-856d-42d7021725e2)
 *   *Wykres siły sygnału (SNR)*
+  ![image](https://github.com/user-attachments/assets/05027c49-c3c0-4a71-b0cd-c5f68eca41d2)
 *   *Wykres profilu wysokościowego*
+  ![image](https://github.com/user-attachments/assets/92f1f3ad-f1f6-4b06-b1ca-018a5c5f8ed7)
 *   *Karta danych lokalizacyjnych*
 *   *Widok dużego kompasu*
+![image](https://github.com/user-attachments/assets/954a6406-246f-48cc-be25-1de64bcf2dab)
+
 
 ## Funkcje
 
@@ -102,7 +105,7 @@ The goal was to create a feature-rich app demonstrating various aspects of locat
 
 2.  **Klonowanie Repozytorium:**
     ```bash
-    git clone <URL_TWOJEGO_REPOZYTORIUM>
+    git clone https://github.com/snakex21/Surpad-Lite
     cd surpad_lite
     ```
 
